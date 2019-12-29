@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+h1{
+    font-size: 5.625rem;
+    margin: 50px 0 auto 0;
+    font-family: 'Sacramento', cursive;
+    color:#66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:#66BFBF;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+p{
+    line-height: 2;
+   
+}
+
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EAF6F6;
+    border-width: 5px;
+    width: 4%;
+    margin: 100px auto;
+    
+}
+.pro{
+    text-decoration: underline;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.bottom-cloud{
+    position:absolute; 
+    left: 250px;
+    bottom: 300px;
+
+}
+.top-cloud{
+    position: absolute;
+    right:300px; 
+    top: 40px;
+
+    
+}
+.middle-container{
+    margin: 100px 0;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+    
+}
+.me{
+   width:15%;
+   border-radius: 50%;
+}
+.devicon{
+   width: 25%;
+   float:left;
+   margin-right: 30px;
+   
+}
+.socialmedia{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+.footer-link{
+    color:#11999E;
+}
+.btn{
+    background-color:  #16d9c2;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family:'Merriweather', serif ;
+    margin: 10px 6px;
+    cursor: pointer;
+    border-radius: 14px;
+    border-radius: 8px;
+    padding: 10px 20px 10px 20px;
+    
+}
+    
+.programmer{
+    font-weight: normal;
+}
+.skill-row{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+   
+}
+.bottom-container{
+    background-color:#66BFBF;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.copywright{
+    color: #EAF6F6;
+    font-size: 13px;
+    padding: 20px 0;
+}
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+.footer-link{
+    text-decoration: none;
+    margin-right: 30px;
+}
+a:hover{
+    color: #eaf6f6;
+}
